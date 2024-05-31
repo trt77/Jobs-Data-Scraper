@@ -15,7 +15,7 @@ Running sequence:
 
 6. merge_data.py->	🗎 combined_it_jobs.csv
 
-Please fill out your API keys in <PLACEHOLDER> fields.
+Please fill out your API keys in `<PLACEHOLDER>` fields.
 
 Add 🗎 combined_it_jobs.csv to your Neo4j Database import folder. It is cleaned, merged and ready to import.
 
